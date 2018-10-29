@@ -13,7 +13,7 @@ The team leader will assign tasks to each group member.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+The group members will communicate with each other to track the progress for each task that was assigned.
 
 
 ## How will will communicate difficulties with a task assigned to us
