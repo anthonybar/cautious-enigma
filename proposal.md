@@ -88,6 +88,7 @@ Our team wants to solve the issue of college students overspending money. To sol
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+    The user interface will be text based. The opening screen will present the user with options to view transactions along with the current weekly total left. There will also be option to add more transactions and delete unneeded transactions.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
