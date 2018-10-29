@@ -69,7 +69,7 @@ Our team wants to solve the issue of college students overspending money. To sol
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-   The input is a text file that should include what day and time it is, the details of the child's spendings and the limit set by the parents.
+   The input is strings/integers which should include what day and time it is, the details of the child's spendings and the limit set by the parents. The user will be prompted for what string/integer to input.
    
    Format:
    
@@ -92,7 +92,8 @@ Our team wants to solve the issue of college students overspending money. To sol
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+   The first step is prompt the user to input all of the spending data. Next, store all of the transaction data in a     
+   hashtable. We also store the weekly spending limit in a double variable. Then, if the sum of all of the transactions surpasses the weekly spending limit, we output the warning message, along with a detailed history of transaction data, to the child's email on the day that they overspend. However, if the child does not overspend, they will simply receieve a detailed history of their transaction data to their email at the end of the week (Friday).
 
 
 Name each interface or class and briefly describe its function or purpose.
