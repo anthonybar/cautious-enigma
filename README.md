@@ -4,7 +4,7 @@
        * GitHub username 1:       name 1:
        * GitHub username 2: jesonsalla       name 2: Jack Sonsalla
        * GitHub username 3: anthonybar     name 3: Anthony Barthell
-       * GitHub username 4:       name 4:
+       * GitHub username 4: yimiao123      name 4: Yimiao Cao
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
       10/29/2018
