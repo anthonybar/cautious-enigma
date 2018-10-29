@@ -26,6 +26,7 @@ We will talk to all the members and figure it out.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
+Good communication and getting work done promptly.
 
 
 
