@@ -69,7 +69,22 @@ Our team wants to solve the issue of college students overspending money. To sol
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+   The input is a text file that should include what day and time it is, the details of the child's spendings and the limit set by the parents.
+   
+   Format:
+   
+   Weekly Limit:
+   
+   date:
+   
+   time:
+   
+   item:
+   
+   cost:
+   
+   place:
+   
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
