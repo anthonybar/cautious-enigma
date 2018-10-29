@@ -40,6 +40,7 @@ Our team wants to solve the issue of college students overspending money. To sol
 
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+   
    There will be two outputs: If the student has overspent their allowance for the week, it will output how much/ where/ what the student is spending on along with a warning message stating that the student has overspent. Otherwise, if the student has NOT overspent, it will simply output the total amount spent for the week.
    
    Case 1 (student has overspent):
