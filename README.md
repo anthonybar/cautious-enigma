@@ -1,5 +1,10 @@
 # xteam-exercise-2: https://github.com/anthonybar/cautious-enigma
 
+1. Edit the title of this document
+   * Replace <UserName> with the user name of the team member who created shared repository
+   * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
+   * Remove the angle brackets <> if they are still there in the title
+  
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:       name 1:
        * GitHub username 2: jesonsalla       name 2: Jack Sonsalla
