@@ -1,7 +1,7 @@
 # xteam-exercise-2: https://github.com/anthonybar/cautious-enigma
   
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
+       * GitHub username 1: omjaarai       name 1: Omjaa Rai
        * GitHub username 2: jesonsalla       name 2: Jack Sonsalla
        * GitHub username 3: anthonybar     name 3: Anthony Barthell
        * GitHub username 4: yimiao123      name 4: Yimiao Cao
