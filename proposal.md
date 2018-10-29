@@ -29,10 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Our team wants to solve the issue of 
-
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Our team wants to solve the issue of college students overspending money. To solve this, we will create an Expense Report Database using a HashTable that your parents can manage. In our program, parents can set a limit to how much their child can spend each day. Once the child surpasses this set limit, the child will receieve a warning email saying that they cannot spend more for the day. 
 
 ## Questions to answer for Exercise #2
 
