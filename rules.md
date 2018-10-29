@@ -12,11 +12,12 @@ and missed deadlines.
 The team leader will assign tasks to each group member.
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
+We will talk to all the members and figure it out.
 
 
 
@@ -25,6 +26,6 @@ The team leader will assign tasks to each group member.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Good communication and getting work done promptly.
+
 
 
