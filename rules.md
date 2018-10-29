@@ -23,7 +23,7 @@ We will talk to all the members and figure it out.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will make sure and check if everyone has done their parts one day before the deadline.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
