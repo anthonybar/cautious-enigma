@@ -35,6 +35,7 @@ Our team wants to solve the issue of college students overspending money. To sol
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
+
    Student Expense Tracker Database
 
 
