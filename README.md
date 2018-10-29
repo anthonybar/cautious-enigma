@@ -9,7 +9,7 @@
    * When did you complete this exercise? 
       10/29/2018
    * How long did it take your team to complete this exercise? 
-      Too long.
+      1 hour
 
 ## Table of Contents
 
