@@ -38,9 +38,21 @@ Our team wants to solve the issue of college students overspending money. To sol
    Student Expense Tracker Database
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+   There will be two outputs: If the student has overspent their allowance for the week, it will output how much/ where/ what the student is spending on along with a warning message stating that the student has overspent. Otherwise, if the student has NOT overspent, it will simply output the total amount spent for the week.
+   
+   Case 1 (student has overspent):
+    "WARNING: STOP SPENDING! YOU HAVE SURPASSED THE WEEKLY SPENDING LIMIT OF $XXX. YOUR PARENTS WILL BE NOTIFIED."
+    Detailed Report of Expenses:
+    Item 1:<Name> Cost: $XX
+    .
+    .
+   Case 2 (student has not overspent):
+   "Great Job Managing your money. You have saved $XXX from your weekly allowance."
+   Detailed Report of Expenses:
+    Item 1:<Name> Cost: $XX
+    .
+    .
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
